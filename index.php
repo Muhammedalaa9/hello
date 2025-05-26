@@ -119,7 +119,7 @@
         </div>
     </div>
     <footer>
-        Réalisé avec  en PHP, HTML, CSS,et validation &amp; JavaScript.<br>
+        Réalisé avec  en PHP, HTML, CSS,et validation &amp; Js.<br>
         &copy; <?php echo date('Y'); ?> Chafiq Hamza et youssef khalid
     </footer>
     <script>
