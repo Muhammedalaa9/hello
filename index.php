@@ -115,7 +115,7 @@
             Appuyez sur <kbd>Entrée</kbd> pour ajouter rapidement une tâche.<br>
             <br>
             Cette application ne sauvegarde pas les tâches après le rechargement de la page.<br>
-            Pour une version persistante, il faudrait utiliser une base de données ou le stockage local.
+            Pour une version persistante, bla bla bla .
         </div>
     </div>
     <footer>
